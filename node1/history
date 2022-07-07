@@ -1,9 +1,0 @@
-eth.accounts
-miner.setEtherbase(eth.accounts[0])
-miner.start(1)
-eth.blockNumber
-miner.stop()
-miner.start(2)
-eth.blockNumber
-eth.accounts
-eth.blockNumber
